@@ -1,9 +1,6 @@
 #!/bin/bash
-dssp="/usr/local/Cellar/dssp/4.0.5/bin/mkdssp --output-format dssp"
-trim="/Users/msaunders/megascale_project/code_repo/trim_dssp.sh"
-lowres="/Users/msaunders/megascale_project/code_repo/lowres.sh"
-numerical="/Users/msaunders/megascale_project/code_repo/numerical.sh"
-pdbs="../AlphaFold_model_PDBs"
+coderepo=`dirname $0`
+. $coderepo/CONFIG
 
 
 file_list=`ls $pdbs/*.pdb`
