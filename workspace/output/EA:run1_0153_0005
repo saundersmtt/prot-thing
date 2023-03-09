@@ -1,4 +1,4 @@
-1 I  
+1 I - -
 2 H E H
 3 I E H
 4 H E H
@@ -11,10 +11,10 @@
 11 E E H
 12 I E H
 13 H E H
-14 L  
-15 H  
+14 L - -
+15 H - -
 16 N S S
-17 T  
+17 T - -
 18 S H H
 19 E H H
 20 E H H
@@ -30,8 +30,8 @@
 30 R H H
 31 R T T
 32 G T T
-33 L  
-34 T  
+33 L - -
+34 T - -
 35 V H H
 36 E H H
 37 E H H
@@ -44,4 +44,4 @@
 44 E H H
 45 A H H
 46 F T T
-47 R  
+47 R - -
