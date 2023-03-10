@@ -1,0 +1,699 @@
+EA:run1_0131_0001
+EA:run1_0153_0005
+EA:run2_0290_0001
+EA:run2_0325_0005
+EA:run2_0779_0006
+EA:run2_0955_0005
+EA:run3_0110_0004
+EA:run3_0321_0005
+EA:run3_0498_0006
+EA:run3_0525_0006
+EA:run3_0769_0002
+EA:run3_1140_0005
+EA:run3_1214_0004
+EA:run3_1331_0004
+EA:run5_0050_0004
+EA:run5_1022_0004
+EA:run5_1055_0002
+EA:run6_0126_0007
+EA:run6_0680_0006
+EA:run6_0930_0002
+EA:run6_1429_0006
+EA:run7_0281_0002
+EA:run7_1025_0001
+EA:run7_1572_0002
+EEHEE_rd2_0391
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ARG_20, ARG_38, ASN_6, GLN_40, GLU_16, GLY_26, GLY_34, LYS_24, LYS_28, LYS_8, PHE_10, PHE_12, THR_14, THR_2, THR_32, THR_36, THR_4, VAL_30, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd2_0770
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ARG_24, ASN_34, ASN_6, GLN_8, GLU_16, GLU_20, GLU_38, GLY_26, HIS_40, ILE_30, LYS_28, LYS_32, PHE_12, SER_14, THR_2, THR_36, THR_4, TYR_10, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd3_0019
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_14, ASN_30, ASN_38, GLN_2, GLN_32, GLU_16, GLU_28, GLY_6, HIS_4, HIS_D_, LYS_20, LYS_24, PHE_12, PHE_40, THR_34, THR_8, TYR_10, VAL_42, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_0094
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_14, ASN_36, ASP_38, GLN_2, GLN_34, GLU_16, GLY_30, GLY_6, HIS_D_, LYS_20, LYS_24, LYS_28, PHE_10, PHE_12, THR_32, THR_8, TRP_40, VAL_42, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_0130
+Dropped unsupported records: # All, #END_P, ALA_12, ALA_18, ALA_22, ALA_26, ASN_6, GLU_16, GLY_30, GLY_38, HIS_34, ILE_4, LEU_42, LYS_2, LYS_20, LYS_24, LYS_28, LYS_36, LYS_8, PHE_10, PHE_40, THR_14, THR_32, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_0144
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_14, ASN_6, GLU_16, GLY_30, GLY_38, LYS_2, LYS_20, LYS_24, LYS_28, LYS_36, PHE_12, PHE_4, PHE_40, THR_32, THR_34, THR_8, VAL_10, VAL_42, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_0146
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_14, ASN_38, GLN_20, GLU_16, GLU_24, GLY_30, GLY_6, ILE_40, LEU_12, LEU_42, LYS_28, LYS_32, SER_36, THR_2, THR_8, TYR_10, VAL_34, VAL_4, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_0602
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_14, ASN_38, ASN_6, GLN_16, GLU_20, GLU_4, GLY_30, HIS_36, ILE_10, ILE_40, ILE_42, LYS_24, LYS_28, LYS_34, THR_2, THR_32, THR_8, VAL_12, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_0657
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_30, ASN_38, ASN_4, ASN_6, GLN_2, GLU_20, HIS_D_, LYS_16, LYS_24, LYS_28, PHE_12, SER_36, THR_14, THR_32, THR_8, TYR_10, VAL_40, VAL_42, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_0687
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_14, GLN_2, GLU_16, GLY_30, GLY_38, GLY_6, HIS_D_, ILE_28, LEU_42, LYS_20, LYS_24, LYS_36, PHE_12, THR_32, THR_4, THR_8, TYR_10, TYR_40, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_0809
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_14, ASN_30, ASN_38, ASP_36, GLN_20, GLU_16, GLU_24, GLY_6, HIS_D_, ILE_10, LYS_28, PHE_12, PHE_40, THR_2, THR_32, THR_8, VAL_4, VAL_42, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_1049
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_14, ASP_38, GLN_30, GLU_16, GLY_6, HIS_34, HIS_D_, ILE_28, ILE_40, ILE_8, LYS_20, LYS_24, LYS_4, PHE_12, THR_2, THR_32, VAL_10, VAL_42, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_1058
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_14, ASN_30, ASN_38, ASP_16, GLN_6, ILE_10, ILE_40, ILE_8, LYS_20, LYS_24, LYS_28, LYS_36, LYS_4, THR_2, THR_32, THR_34, VAL_12, VAL_42, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_1136
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_30, ASN_6, GLN_32, GLU_16, HIS_D_, ILE_40, LYS_20, LYS_24, LYS_28, LYS_38, LYS_8, PHE_10, PHE_12, THR_14, THR_2, THR_4, VAL_42, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_1244
+Dropped unsupported records: # All, #END_P, ALA_20, ALA_30, ASN_36, GLN_18, GLY_6, HIS_D_, LEU_12, LEU_14, LEU_8, LYS_2, LYS_24, LYS_26, PRO_16, PRO_28, THR_38, THR_4, THR_40, TRP_22, TYR_10, VAL_32, VAL_34, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_1250
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_14, ASN_30, ASN_38, GLN_32, GLU_20, GLY_6, ILE_10, ILE_12, ILE_28, LYS_16, LYS_24, LYS_36, LYS_4, PHE_42, THR_2, THR_34, TRP_40, VAL_8, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_1367
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_30, ASN_6, GLU_16, GLU_4, GLY_38, LEU_42, LYS_20, LYS_24, LYS_28, LYS_32, LYS_36, LYS_8, PHE_2, THR_14, THR_34, TYR_12, TYR_40, VAL_10, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_1498
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_30, ASN_38, ASN_6, GLN_34, GLU_16, GLU_32, HIS_36, HIS_D_, LYS_20, LYS_24, LYS_28, SER_14, THR_2, VAL_10, VAL_12, VAL_40, VAL_42, VAL_8, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_1558
+Dropped unsupported records: # All, #END_P, ALA_12, ALA_18, ALA_22, ALA_26, ASN_30, ASN_38, ASN_6, GLU_16, GLU_4, ILE_10, ILE_28, LEU_34, LEU_36, LYS_20, LYS_24, LYS_8, SER_14, THR_32, TYR_2, TYR_40, VAL_42, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_1587
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_14, ASN_30, ASN_38, GLN_8, GLU_16, GLY_6, HIS_D_, ILE_28, LYS_20, LYS_24, LYS_36, THR_2, THR_32, THR_34, TYR_10, TYR_12, VAL_40, VAL_42, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_1615
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_30, GLN_2, GLN_4, GLU_16, GLU_28, GLU_8, GLY_38, GLY_6, LYS_20, LYS_24, LYS_32, LYS_36, PHE_12, PHE_40, THR_14, THR_34, TYR_10, VAL_42, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_1627
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_30, ASP_16, GLN_32, GLU_24, GLY_38, GLY_6, HIS_D_, LYS_20, LYS_28, LYS_36, LYS_8, PHE_12, THR_14, THR_2, THR_34, TRP_40, TYR_10, VAL_42, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_1669
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_38, ASN_6, ASP_36, GLU_16, GLU_34, GLU_4, GLY_30, ILE_40, ILE_42, LYS_2, LYS_20, LYS_24, LYS_28, LYS_8, PHE_12, SER_14, THR_32, TYR_10, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_1702
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_14, ASN_30, GLU_20, GLY_38, GLY_6, HIS_D_, ILE_40, LEU_10, LEU_8, LYS_16, LYS_24, LYS_28, LYS_36, THR_2, THR_32, THR_34, TYR_12, VAL_42, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_1716
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_14, ASN_30, ASP_38, GLU_16, GLU_2, GLY_6, HIS_4, ILE_36, ILE_42, ILE_8, LEU_10, LYS_20, LYS_24, LYS_28, THR_32, THR_34, TYR_12, VAL_40, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_1810
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_30, ASN_6, ASP_36, ASP_38, GLU_16, LEU_40, LYS_20, LYS_24, LYS_28, LYS_32, LYS_4, PHE_12, THR_14, THR_2, THR_8, TYR_10, VAL_34, VAL_42, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_1817
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_14, GLU_16, GLY_30, GLY_38, GLY_6, HIS_D_, LYS_20, LYS_24, LYS_28, LYS_8, PHE_12, PHE_40, THR_2, THR_32, THR_36, TYR_10, VAL_4, VAL_42, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd3_1818
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_30, ASN_38, ASP_16, ASP_36, GLY_6, ILE_10, ILE_34, ILE_4, ILE_8, LEU_28, LEU_42, LYS_20, LYS_24, SER_32, THR_14, THR_2, TYR_40, VAL_12, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+EEHEE_rd4_0003
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ARG_28, ARG_32, ASN_14, ASN_30, ASN_6, ASP_38, AlaCou, GLU_16, GLU_24, GLU_34, HIS_36, ILE_10, ILE_40, ILE_42, LYS_2, LYS_20, PHE_12, THR_4, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0004
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ARG_20, ASN_30, ASN_38, AlaCou, GLU_16, GLU_2, GLU_24, GLU_34, GLU_4, GLY_6, ILE_40, ILE_42, LYS_28, LYS_36, PHE_12, SER_14, THR_32, TRP_10, TYR_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0005
+Dropped unsupported records: # All, #END_P, ALA_22, ALA_26, ASN_14, ASN_30, ASN_6, ASP_38, AlaCou, GLN_32, GLU_16, GLU_34, GLU_4, HIS_36, ILE_42, LEU_8, LYS_20, LYS_24, LYS_28, MET_18, PHE_10, PHE_12, THR_2, VAL_40, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0014
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_26, ARG_32, ASN_30, ASN_38, AlaCou, GLU_16, GLU_34, GLY_6, HIS_36, HIS_4, ILE_42, LYS_20, LYS_24, PHE_12, PHE_40, SER_28, THR_14, THR_2, TYR_10, VAL_22, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0077
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ARG_32, ASN_14, ASP_38, AlaCou, GLU_16, GLU_24, GLU_34, GLY_30, GLY_6, HIS_36, HIS_4, ILE_40, LYS_20, LYS_28, PHE_12, THR_2, TYR_10, VAL_42, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0134
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ARG_20, ASN_30, AlaCou, GLN_34, GLU_16, GLU_24, GLU_32, GLY_38, GLY_6, HIS_36, HIS_4, ILE_42, LEU_8, LYS_28, PHE_12, PHE_40, THR_14, THR_2, TYR_10, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0155
+Dropped unsupported records: # All, #END_P, ALA_26, ARG_28, ASN_30, ASN_6, AlaCou, GLN_2, GLN_32, GLN_34, GLU_16, GLU_20, GLU_4, GLY_38, ILE_10, ILE_42, LEU_18, LYS_24, LYS_36, PHE_12, PHE_40, THR_14, VAL_22, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0249
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_14, ASN_6, AlaCou, GLN_32, GLU_16, GLU_20, GLU_38, GLY_30, HIS_4, HIS_D_, LYS_24, LYS_28, PHE_12, THR_2, THR_34, TYR_10, TYR_40, VAL_42, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0256
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ARG_28, ASN_14, ASP_36, AlaCou, GLN_30, GLN_4, GLU_16, GLU_24, GLU_34, GLY_38, GLY_6, LEU_40, LEU_8, LYS_20, LYS_32, PHE_12, PHE_42, THR_2, TRP_10, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0308
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ARG_24, ARG_34, ASN_14, ASP_38, AlaCou, GLN_6, GLU_16, GLU_28, GLU_32, GLY_30, HIS_D_, ILE_10, ILE_40, LYS_20, PHE_12, THR_2, VAL_42, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0323
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_14, ASP_38, ASP_6, AlaCou, GLN_28, GLU_16, GLU_24, GLU_32, GLY_30, HIS_34, HIS_D_, ILE_40, ILE_42, LEU_8, LYS_20, LYS_4, PHE_10, PHE_12, THR_2, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0324
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ARG_2, ASN_30, ASN_6, ASP_38, ASP_4, AlaCou, GLN_34, GLU_16, GLU_24, HIS_D_, ILE_40, LYS_20, LYS_28, PHE_12, SER_14, THR_32, TYR_10, VAL_42, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0363
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ARG_24, ASN_14, ASP_4, AlaCou, GLU_16, GLU_28, GLU_32, GLU_36, GLY_30, GLY_38, LEU_40, LYS_20, LYS_34, LYS_6, MET_8, PHE_12, THR_2, TYR_10, VAL_42, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0371
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ARG_28, ASN_14, ASN_30, ASN_38, ASN_6, AlaCou, GLU_16, GLU_24, GLU_34, HIS_36, HIS_4, LEU_40, LYS_20, PHE_12, THR_2, THR_32, TYR_10, TYR_8, VAL_42, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0399
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ARG_32, ASN_14, ASN_30, ASN_38, AlaCou, GLN_6, GLU_16, GLU_34, GLU_4, HIS_36, LYS_20, LYS_24, PHE_12, SER_28, THR_2, TRP_40, TYR_10, VAL_42, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0418
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ARG_34, ASN_14, ASN_6, AlaCou, GLN_4, GLU_16, GLU_28, GLU_32, GLY_30, GLY_38, ILE_42, LEU_8, LYS_20, LYS_24, LYS_36, PHE_12, THR_2, TRP_40, TYR_10, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0424
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_26, ASN_14, ASN_30, ASN_6, AlaCou, GLU_16, GLU_34, GLY_38, HIS_36, HIS_4, ILE_42, LYS_20, LYS_24, LYS_32, PHE_12, THR_2, THR_28, TYR_10, TYR_40, VAL_22, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0469
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_14, ASN_6, AlaCou, GLN_30, GLU_16, GLU_34, GLY_38, HIS_36, HIS_4, LYS_20, LYS_24, LYS_32, MET_42, PHE_12, PHE_40, THR_2, THR_28, TYR_10, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0470
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ARG_20, ARG_4, ASP_6, AlaCou, GLN_34, GLU_16, GLU_32, GLY_30, GLY_38, HIS_36, LYS_24, PHE_12, PHE_40, SER_14, SER_28, THR_2, TYR_10, VAL_42, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0481
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ARG_20, ASN_14, ASN_6, ASP_38, AlaCou, GLN_32, GLN_34, GLU_16, GLU_24, GLY_30, HIS_36, HIS_D_, ILE_40, ILE_42, LYS_28, PHE_12, THR_2, TYR_10, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0497
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ARG_24, ARG_36, ASN_14, ASN_6, ASP_38, AlaCou, GLU_16, GLU_28, GLU_34, GLU_4, GLY_30, LYS_20, PHE_12, THR_2, THR_32, TYR_8, VAL_10, VAL_40, VAL_42, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0536
+Dropped unsupported records: # All, #END_P, ALA_26, ASN_30, ASN_6, ASP_38, AlaCou, GLU_16, GLU_34, HIS_36, HIS_4, LEU_18, LEU_22, LYS_20, LYS_24, LYS_32, PHE_12, SER_14, THR_2, THR_28, TYR_10, VAL_40, VAL_42, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0570
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ARG_32, ASN_14, ASP_28, ASP_38, AlaCou, GLU_16, GLU_34, GLY_30, HIS_36, HIS_D_, ILE_40, LYS_20, LYS_24, LYS_6, PHE_12, THR_2, TYR_10, VAL_42, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0630
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_14, ASN_30, ASP_38, ASP_6, AlaCou, GLN_32, GLU_16, GLU_24, GLU_36, HIS_D_, ILE_40, LYS_20, LYS_28, PHE_12, THR_2, TYR_10, VAL_42, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0642
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ARG_24, ARG_34, ASN_14, ASN_6, ASP_38, AlaCou, GLN_32, GLU_16, GLU_20, GLU_36, GLU_4, GLY_30, ILE_42, PHE_12, PHE_40, SER_28, THR_2, TYR_10, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0647
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_14, AlaCou, GLN_2, GLN_32, GLU_16, GLU_34, GLY_30, GLY_38, GLY_6, HIS_36, ILE_42, LYS_20, LYS_24, LYS_28, PHE_12, PHE_40, THR_4, VAL_10, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0707
+Dropped unsupported records: # All, #END_P, ALA_26, ARG_28, ASN_6, ASP_14, ASP_4, AlaCou, GLN_32, GLN_8, GLU_2, GLU_20, GLY_30, GLY_38, HIS_D_, LEU_42, LYS_16, LYS_36, PHE_12, PHE_40, THR_24, TYR_10, VAL_18, VAL_22, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0759
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ARG_24, ASN_14, ASN_30, ASN_38, ASP_36, AlaCou, GLU_16, GLU_28, GLU_32, HIS_34, HIS_4, LYS_20, LYS_6, PHE_12, THR_2, TRP_40, TYR_10, VAL_42, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0763
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ARG_24, ASN_14, AlaCou, GLN_30, GLN_32, GLU_16, GLU_20, GLY_38, GLY_6, HIS_34, HIS_4, ILE_42, LYS_28, LYS_36, PHE_12, PHE_40, THR_2, TYR_10, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0784
+Dropped unsupported records: # All, #END_P, ALA_18, ARG_24, ARG_36, ASN_14, ASN_30, ASN_32, ASP_38, ASP_6, AlaCou, GLU_16, GLU_28, GLU_34, HIS_D_, LYS_20, PHE_12, THR_2, TYR_10, TYR_40, VAL_22, VAL_26, VAL_42, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0794
+Dropped unsupported records: # All, #END_P, ALA_18, ARG_24, ASN_14, ASN_38, ASN_6, AlaCou, GLU_16, GLU_28, GLU_34, GLY_30, HIS_4, LYS_20, LYS_36, PHE_12, THR_2, THR_32, TRP_40, TYR_10, VAL_22, VAL_26, VAL_42, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0848
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ARG_28, ASN_14, ASP_4, AlaCou, GLN_32, GLN_6, GLU_16, GLU_24, GLY_30, GLY_38, HIS_34, LYS_20, LYS_36, PHE_12, THR_2, TYR_10, TYR_40, VAL_42, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0870
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_14, ASN_30, ASN_38, ASP_28, ASP_6, AlaCou, GLU_16, GLU_34, HIS_36, HIS_D_, ILE_40, LYS_20, LYS_24, PHE_12, THR_2, THR_32, TYR_10, VAL_42, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0871
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ARG_28, ASN_14, ASP_6, AlaCou, GLN_2, GLU_16, GLU_24, GLU_34, GLY_30, GLY_38, HIS_4, ILE_40, LYS_20, LYS_36, PHE_12, THR_32, TYR_10, VAL_42, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0940
+Dropped unsupported records: # All, #END_P, ASP_38, AlaCou, GLN_8, GLU_16, GLU_36, GLY_30, LYS_20, LYS_24, LYS_6, PHE_12, PRO_32, SER_28, THR_14, THR_2, THR_34, TRP_40, TYR_10, VAL_18, VAL_22, VAL_26, VAL_4, VAL_42, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0953
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ASN_14, AlaCou, GLN_32, GLU_16, GLU_24, GLY_30, GLY_38, HIS_D_, LYS_2, LYS_20, LYS_28, LYS_36, LYS_6, PHE_12, PHE_40, THR_4, TYR_10, VAL_42, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EEHEE_rd4_0998
+Dropped unsupported records: # All, #END_P, ALA_18, ALA_22, ALA_26, ARG_28, ASN_14, ASP_38, ASP_6, AlaCou, GLN_2, GLU_16, GLU_24, GLU_34, GLY_30, HIS_4, LYS_20, LYS_36, PHE_12, THR_32, TRP_40, TYR_10, VAL_42, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EHEE_rd1_0101
+Dropped unsupported records: # All, ALA_12, ALA_16, ARG_18, ARG_20, ARG_34, ARG_38, ARG_4, ASN_8, AlaCou, GLN_24, GLU_10, GLU_2, GLU_36, GLY_32, ILE_28, LYS_14, LYS_22, LYS_30, PHE_6, THR:Ct, VAL_26, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd1_0284
+Dropped unsupported records: # All, ALA_12, ARG_20, ARG_24, ARG_34, ARG_36, ASN_32, ASN_8, ASP:Ct, AlaCou, GLN_2, GLN_30, GLN_4, GLU_10, GLU_16, GLU_18, GLU_22, LYS_14, PHE_6, THR_38, VAL_26, VAL_28, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd1_0407
+Dropped unsupported records: # All, ALA_12, ALA_16, ARG_14, ARG_22, ASN_10, ASN_30, ASN_32, ASP:Ct, ASP_8, AlaCou, GLN_2, GLN_4, GLU_18, GLU_36, HIS_34, LYS_20, THR_38, THR_6, TYR_24, VAL_26, VAL_28, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd1_0459
+Dropped unsupported records: # All, ALA_12, ARG_10, ARG_14, ARG_22, ASN_32, ASP_8, AlaCou, GLU_18, GLU_2, GLU_30, GLU_36, LYS:Ct, LYS_16, LYS_20, LYS_24, LYS_34, THR_38, THR_6, TYR_4, VAL_26, VAL_28, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd1_0882
+Dropped unsupported records: # All, ALA_12, ALA_16, ARG_14, ARG_20, ARG_30, ASP_8, AlaCou, GLU_10, GLU_18, GLU_2, GLY_32, HIS_38, HIS_D_, ILE_28, ILE_4, LYS_22, LYS_34, THR:Ct, TYR_24, VAL_26, VAL_6, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd2_0005
+Dropped unsupported records: # All, ALA_12, ALA_16, ALA_20, ARG:Ct, ARG_14, ARG_22, ASP_8, AlaCou, GLN_30, GLU_10, GLU_18, GLU_36, GLU_38, GLY_32, PHE_6, THR_2, TYR_24, TYR_34, TYR_4, VAL_26, VAL_28, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd2_0152
+Dropped unsupported records: # All, ALA_12, ARG_10, ARG_14, ARG_20, ARG_38, ARG_4, ASN_22, ASN_32, ASP_8, AlaCou, GLU_16, GLU_18, GLU_2, GLU_30, GLU_36, LYS:Ct, LYS_24, LYS_34, PHE_6, VAL_26, VAL_28, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd2_0191
+Dropped unsupported records: # All, ALA_12, ARG_14, ARG_22, ARG_36, ARG_38, ASP:Ct, ASP_8, AlaCou, GLU_10, GLU_18, GLY_32, ILE_16, LEU_24, LYS_20, LYS_30, PHE_26, PHE_6, THR_2, THR_34, TYR_28, TYR_4, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd2_0196
+Dropped unsupported records: # All, ALA_12, ARG_24, ARG_30, ARG_34, ARG_38, ARG_4, ASP:Ct, ASP_32, AlaCou, GLN_16, GLN_22, GLU_10, GLU_18, GLU_2, GLU_20, GLU_36, ILE_28, LYS_14, PHE_6, SER_8, VAL_26, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd2_0251
+Dropped unsupported records: # All, ALA_12, ALA_16, ALA_20, ARG_14, ARG_22, ARG_36, ARG_38, ASP_8, AlaCou, GLN_30, GLU_10, GLU_18, GLU_2, GLY:Ct, GLY_32, THR_34, TYR_24, TYR_4, TYR_6, VAL_26, VAL_28, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd2_0331
+Dropped unsupported records: # All, ALA_12, ARG_10, ARG_14, ARG_16, ARG_30, ARG_36, ARG_38, ASP_8, AlaCou, GLU_18, GLU_20, GLY:Ct, GLY_32, LYS_22, LYS_34, PHE_6, SER_2, TYR_24, TYR_4, VAL_26, VAL_28, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd2_0341
+Dropped unsupported records: # All, ALA_12, ALA_16, ARG:Ct, ARG_14, ARG_36, ASN_8, AlaCou, GLU_10, GLU_18, GLU_38, GLY_32, ILE_4, LYS_20, LYS_22, LYS_30, THR_2, THR_34, THR_6, TYR_24, VAL_26, VAL_28, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd2_0372
+Dropped unsupported records: # All, ALA_12, ALA_16, ARG_10, ARG_14, ARG_34, ARG_38, ASN_22, ASP:Ct, ASP_8, AlaCou, GLN_20, GLU_18, GLY_32, LEU_24, LYS_30, LYS_36, PHE_6, THR_2, TYR_4, VAL_26, VAL_28, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd2_0461
+Dropped unsupported records: # All, ALA_12, ALA_16, ARG_10, ARG_22, ARG_34, ARG_38, ASN_32, ASP_8, AlaCou, GLU:Ct, GLU_18, GLU_2, GLU_20, GLU_36, ILE_28, LEU_24, LYS_14, LYS_30, PHE_6, TYR_26, TYR_4, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd2_0480
+Dropped unsupported records: # All, ALA_12, ALA_16, ARG_20, ARG_22, ARG_38, ASN_32, ASP_8, AlaCou, GLN:Ct, GLU_18, HIS_2, LEU_24, LYS_30, LYS_36, PHE_6, THR_10, THR_14, THR_34, TYR_4, VAL_26, VAL_28, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd2_0487
+Dropped unsupported records: # All, ALA_12, ALA_16, ARG_10, ARG_20, ARG_22, ASN_32, ASP_8, AlaCou, GLU_18, GLU_2, GLU_30, GLU_38, ILE_24, LYS:Ct, LYS_14, THR_34, TYR_4, TYR_6, VAL_26, VAL_28, VAL_36, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd2_0601
+Dropped unsupported records: # All, ARG:Ct, ARG_14, ARG_20, ARG_22, ASN_30, ASN_32, ASP_8, AlaCou, GLU_10, GLU_16, GLU_18, GLU_36, GLU_38, LEU_6, SER_12, THR_34, TYR_2, TYR_24, TYR_4, VAL_26, VAL_28, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd2_0628
+Dropped unsupported records: # All, ALA_12, ALA_16, ARG_18, ARG_38, ASN_32, ASP_10, AlaCou, GLN_20, GLU:Ct, GLU_14, GLU_2, LYS_22, LYS_28, LYS_30, LYS_34, LYS_36, PHE_6, SER_8, TYR_24, TYR_4, VAL_26, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd2_0751
+Dropped unsupported records: # All, ALA_12, ALA_16, ARG_22, ARG_30, ARG_36, ASP:Ct, ASP_8, AlaCou, GLU_18, GLU_2, GLU_38, GLY_32, ILE_28, LEU_24, LYS_14, LYS_20, PHE_26, THR_10, THR_34, THR_6, TYR_4, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd2_0801
+Dropped unsupported records: # All, ALA_12, ALA_16, ARG_22, ARG_38, ASP_8, AlaCou, GLU_10, GLU_18, GLU_36, GLY_32, ILE_24, LEU_4, LYS:Ct, LYS_14, LYS_20, LYS_30, PHE_26, THR_2, THR_34, TYR_28, TYR_6, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd2_0840
+Dropped unsupported records: # All, ALA_12, ALA_16, ARG_20, ARG_34, ARG_36, ASN_32, ASP_8, AlaCou, GLN_10, GLU_14, GLU_18, GLU_2, GLU_30, GLY:Ct, ILE_28, LYS_22, LYS_38, TYR_24, TYR_4, TYR_6, VAL_26, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd2_0894
+Dropped unsupported records: # All, ALA_12, ARG_14, ARG_22, ARG_28, ARG_30, ASN:Ct, ASN_8, AlaCou, GLU_10, GLU_18, GLU_38, GLY_32, ILE_4, LEU_24, THR_2, THR_20, THR_34, THR_36, TYR_16, VAL_26, VAL_6, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd2_1106
+Dropped unsupported records: # All, ALA_12, ARG_14, ARG_2, ARG_20, ARG_30, ARG_34, ARG_38, ASN_32, ASP_8, AlaCou, GLU_10, GLU_16, GLU_18, GLU_4, LYS:Ct, LYS_22, LYS_24, LYS_36, TYR_6, VAL_26, VAL_28, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd2_1257
+Dropped unsupported records: # All, ALA_12, ARG_22, ARG_36, ARG_38, ARG_4, ASN_8, AlaCou, GLU_10, GLU_18, GLU_2, GLU_20, GLY:Ct, GLY_32, LEU_24, LYS_14, LYS_16, LYS_30, PHE_6, THR_34, VAL_26, VAL_28, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd2_1260
+Dropped unsupported records: # All, ALA_12, ALA_16, ARG:Ct, ARG_10, ARG_22, ARG_36, ASP_8, AlaCou, GLN_4, GLU_14, GLU_18, GLU_38, GLY_32, LYS_20, LYS_30, PHE_26, THR_2, THR_34, VAL_24, VAL_28, VAL_6, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd2_1285
+Dropped unsupported records: # All, ALA_12, ARG:Ct, ARG_14, ARG_20, ASP_8, AlaCou, GLU_10, GLU_16, GLU_38, GLY_24, GLY_32, ILE_28, LYS_30, SER_4, THR_34, THR_36, TRP_18, TYR_2, TYR_22, TYR_6, VAL_26, buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+EHEE_rd3_0011
+Dropped unsupported records: # All, ALA_12, ALA_16, ASN_32, ASP_8, AlaCou, GLN_20, GLN_22, GLU_18, GLU_2, HIS_D_, LYS:Ct, LYS_10, LYS_14, LYS_30, LYS_34, PHE_6, TYR_24, TYR_4, VAL_26, VAL_28, buried, contac, expose, holes, label, pack 0, percen, pose -, res_co, ss_sc
+EHEE_rd3_0016
+Dropped unsupported records: # All, ALA_12, ALA_16, ASN_8, AlaCou, GLN_20, GLN_30, GLN_34, GLU_10, GLU_14, GLU_2, GLY_32, HIS_D_, LYS:Ct, LYS_18, LYS_22, THR_36, TYR_24, TYR_4, TYR_6, VAL_26, VAL_28, buried, contac, expose, holes, label, pack 0, percen, pose -, res_co, ss_sc
+EHEE_rd3_0035
+Dropped unsupported records: # All, ALA_12, ALA_16, ARG_14, ASN:Ct, ASN_32, AlaCou, GLN_22, GLN_38, GLU_10, GLU_2, GLU_30, ILE_28, LEU_24, LYS_18, LYS_20, LYS_34, PHE_6, THR_36, THR_8, TYR_4, VAL_26, buried, contac, expose, holes, label, pack 0, percen, pose -, res_co, ss_sc
+EHEE_rd3_0053
+Dropped unsupported records: # All, ALA_12, ALA_16, ASN_8, ASP_10, AlaCou, GLN:Ct, GLY_32, ILE_28, LEU_22, LEU_24, LYS_14, LYS_20, LYS_30, LYS_36, PHE_26, PHE_4, THR_34, THR_38, TRP_18, TYR_2, VAL_6, buried, contac, expose, holes, label, pack 0, percen, pose -, res_co, ss_sc
+EHEE_rd3_0067
+Dropped unsupported records: # All, ALA_12, ASN_32, AlaCou, GLN_14, GLU_10, HIS_D:, HIS_D_, LEU_24, LYS_16, LYS_20, LYS_22, LYS_30, PHE_4, SER_8, THR_2, THR_34, THR_38, TYR_18, VAL_26, VAL_28, VAL_6, buried, contac, expose, holes, label, pack 0, percen, pose -, res_co, ss_sc
+EHEE_rd3_0124
+Dropped unsupported records: # All, ALA_12, ALA_16, ARG_22, ASP_8, AlaCou, GLN_10, GLN_30, GLN_36, GLU_14, GLU_18, GLY:Ct, GLY_32, LEU_28, LYS_20, LYS_34, LYS_38, THR_2, TYR_24, TYR_4, TYR_6, VAL_26, buried, contac, expose, holes, label, pack 0, percen, pose -, res_co, ss_sc
+EHEE_rd3_0133
+Dropped unsupported records: # All, ALA_12, ALA_16, ALA_26, ASN:Ct, ASN_32, ASP_8, AlaCou, GLN_20, GLN_30, GLN_38, GLU_10, ILE_4, LYS_14, LYS_18, LYS_22, LYS_34, PHE_36, THR_2, TYR_24, TYR_28, VAL_6, buried, contac, expose, holes, label, pack 0, percen, pose -, res_co, ss_sc
+EHEE_rd4_0044
+Dropped unsupported records: # All, ARG_14, ARG_20, AlaCou, GLN_22, GLU:Ct, GLU_10, GLU_34, GLY_32, GLY_8, HIS_38, ILE_36, LEU_24, MET_12, PHE_4, THR_6, TRP_18, TYR_2, TYR_26, VAL_16, VAL_28, VAL_30, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EHEE_rd4_0069
+Dropped unsupported records: # All, ARG_14, AlaCou, GLN_20, GLU_10, GLU_34, GLY_32, GLY_8, HIS_22, HIS_38, LEU_2, LEU_24, LEU_4, LYS:Ct, THR_30, TRP_18, TYR_16, VAL_12, VAL_26, VAL_28, VAL_36, VAL_6, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EHEE_rd4_0086
+Dropped unsupported records: # All, ALA_12, ALA_20, ARG_22, ASN_32, AlaCou, GLN_30, GLN_34, GLU_10, GLY_8, ILE_2, ILE_28, ILE_4, LYS_14, MET_18, SER:Ct, THR_38, THR_6, TYR_16, TYR_24, VAL_26, VAL_36, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EHEE_rd4_0097
+Dropped unsupported records: # All, ARG:Ct, ARG_22, ARG_34, AlaCou, GLU_10, GLU_18, GLY_32, GLY_8, ILE_2, ILE_28, ILE_30, LEU_16, LEU_24, LYS_14, LYS_20, MET_12, THR_38, TYR_6, VAL_26, VAL_36, VAL_4, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EHEE_rd4_0098
+Dropped unsupported records: # All, ARG_22, AlaCou, GLN_34, GLU:Ct, GLU_10, GLU_20, GLY_32, GLY_8, HIS_36, ILE_12, ILE_16, ILE_30, ILE_4, LEU_24, THR_38, TRP_14, TRP_2, TYR_26, VAL_18, VAL_28, VAL_6, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EHEE_rd4_0172
+Dropped unsupported records: # All, ALA_12, ARG_14, ARG_22, ASN_32, AlaCou, GLU_10, GLY_8, ILE_36, LEU_24, LYS:Ct, LYS_20, LYS_34, MET_18, PHE_4, SER_6, THR_38, VAL_16, VAL_2, VAL_26, VAL_28, VAL_30, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EHEE_rd4_0195
+Dropped unsupported records: # All, ALA_12, ARG_14, ASN_32, AlaCou, GLN_20, GLN_34, GLU:Ct, GLU_10, GLY_8, HIS_D_, ILE_2, ILE_28, LEU_24, LYS_18, PHE_6, TYR_16, VAL_26, VAL_30, VAL_36, VAL_4, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EHEE_rd4_0300
+Dropped unsupported records: # All, ALA_12, ALA_22, ASN_32, ASN_8, AlaCou, GLN_34, GLU:Ct, GLU_10, HIS_38, ILE_28, ILE_36, LEU_24, LYS_14, LYS_18, TYR_16, TYR_4, VAL_2, VAL_20, VAL_26, VAL_30, VAL_6, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EHEE_rd4_0325
+Dropped unsupported records: # All, ALA_28, ARG_22, ASN_32, ASP:Ct, AlaCou, GLU_10, GLU_18, GLU_38, GLY_8, ILE_36, ILE_4, LEU_2, LEU_24, LYS_14, LYS_20, LYS_34, MET_12, VAL_16, VAL_26, VAL_30, VAL_6, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EHEE_rd4_0340
+Dropped unsupported records: # All, ALA_12, AlaCou, GLU_10, GLY_32, GLY_8, HIS_D_, ILE_16, ILE_2, ILE_30, ILE_36, LEU_18, LEU_24, LYS:Ct, LYS_20, LYS_34, MET_22, SER_6, THR_38, VAL_26, VAL_28, VAL_4, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EHEE_rd4_0394
+Dropped unsupported records: # All, ALA_12, ALA_26, AlaCou, GLN_22, GLU_10, GLU_34, GLY_32, GLY_8, HIS:Ct, HIS_36, ILE_2, ILE_28, ILE_30, LEU_24, LYS_14, LYS_18, MET_20, PHE_4, PHE_6, THR_38, TYR_16, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EHEE_rd4_0463
+Dropped unsupported records: # All, ALA_12, ARG_14, ASN_32, ASP:Ct, ASP_18, AlaCou, GLN_38, GLU_10, GLU_2, GLU_20, GLY_8, ILE_30, ILE_36, LEU_24, LEU_28, LYS_22, LYS_34, MET_16, PHE_6, TYR_26, TYR_4, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EHEE_rd4_0499
+Dropped unsupported records: # All, ALA_12, ALA_26, ARG_14, ARG_34, ASN_22, ASN_32, AlaCou, GLU_10, GLU_18, GLY_8, HIS_38, ILE_2, ILE_28, LEU_16, LEU_24, LYS:Ct, LYS_20, THR_6, TYR_4, VAL_30, VAL_36, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EHEE_rd4_0502
+Dropped unsupported records: # All, ALA_28, ASN_32, ASP:Ct, AlaCou, GLN_34, GLU_10, GLU_14, GLY_8, ILE_16, ILE_36, ILE_4, LEU_24, LYS_20, MET_12, MET_22, THR_38, TYR_18, TYR_2, VAL_26, VAL_30, VAL_6, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EHEE_rd4_0510
+Dropped unsupported records: # All, ALA_12, ALA_28, ARG_20, ARG_22, ASP:Ct, AlaCou, GLU_10, GLU_34, GLY_32, GLY_8, HIS_38, ILE_2, ILE_36, LEU_4, LYS_14, LYS_30, MET_18, TYR_24, VAL_16, VAL_26, VAL_6, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EHEE_rd4_0625
+Dropped unsupported records: # All, ALA_12, ASN_32, ASP:Ct, AlaCou, GLN_20, GLN_22, GLN_34, GLU_10, GLY_8, ILE_2, ILE_4, LEU_24, LYS_14, LYS_18, MET_16, THR_38, THR_6, VAL_26, VAL_28, VAL_30, VAL_36, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EHEE_rd4_0726
+Dropped unsupported records: # All, ALA_12, ARG:Ct, ARG_14, ARG_22, AlaCou, GLN_20, GLN_34, GLU_10, GLU_18, GLY_32, GLY_8, ILE_16, ILE_2, ILE_28, ILE_4, LEU_24, LYS_38, THR_6, TYR_26, VAL_30, VAL_36, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EHEE_rd4_0840
+Dropped unsupported records: # All, ALA_12, ALA_16, ARG_14, ARG_22, AlaCou, GLU:Ct, GLU_10, GLU_18, GLU_30, GLU_34, GLU_38, GLY_32, GLY_8, ILE_28, ILE_36, ILE_4, LEU_24, LYS_20, MET_2, VAL_26, VAL_6, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EHEE_rd4_0864
+Dropped unsupported records: # All, ARG_20, ARG_22, ARG_38, ASN_32, AlaCou, GLU_10, GLU_16, GLU_2, GLY_8, ILE_30, LEU_12, LEU_24, LYS:Ct, LYS_14, LYS_34, MET_18, TYR_4, VAL_26, VAL_28, VAL_36, VAL_6, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EHEE_rd4_0877
+Dropped unsupported records: # All, ALA_12, ARG_30, ASP:Ct, AlaCou, GLN_14, GLN_22, GLU_10, GLU_18, GLY_32, GLY_8, HIS_38, ILE_36, LEU_16, LEU_24, LYS_20, LYS_34, TYR_4, VAL_2, VAL_26, VAL_28, VAL_6, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+EHEE_rd4_0929
+Dropped unsupported records: # All, ALA_12, ALA_26, ASN_32, AlaCou, GLU_10, GLU_18, GLY_8, HIS_38, HIS_D_, ILE_30, LEU_16, LEU_2, LEU_24, LYS:Ct, LYS_14, LYS_20, LYS_34, PHE_4, THR_6, VAL_28, VAL_36, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+GG:run1_0874_0002
+GG:run1_1113_0003
+GG:run1_1390_0006
+GG:run1_1392_0004
+GG:run2_0085_0001
+GG:run3_0214_0002
+GG:run3_0396_0003
+GG:run3_0687_0004
+GG:run3_0695_0006
+GG:run3_0818_0003
+GG:run3_1315_0003
+GG:run3_1365_0003
+GG:run4_0178_0003
+GG:run4_0284_0002
+GG:run4_0467_0002
+GG:run4_1050_0002
+GG:run5_0074_0002
+GG:run5_0637_0006
+GG:run5_0650_0005
+GG:run5_1147_0004
+GG:run5_1309_0004
+GG:run6_0608_0003
+GG:run6_0775_0006
+GG:run6_0851_0003
+GG:run6_1254_0005
+GG:run6_1310_0004
+GG:run6_1641_0002
+HEEH_KT_rd6_0007
+Dropped unsupported records: , # All, #END_P, ALA_12, ALA_26, ARG_38, ARG_40, GLU_10, GLU_14, GLU_30, GLU_34, GLU_4, GLY_16, GLY_22, ILE_2, ILE_20, ILE_6, LEU_32, LEU_36, LYS_42, LYS_8, PHE_24, THR_18, THR_28, label, pose -, score_
+HEEH_KT_rd6_0015
+Dropped unsupported records: , # All, #END_P, ALA_12, ALA_32, ALA_42, ARG_34, ASN_16, ASP_26, GLU_10, GLU_18, GLU_2, GLU_30, GLU_4, GLU_6, GLU_8, GLY_22, ILE_24, ILE_40, LEU_36, LYS_14, SER_28, TRP_20, TRP_38, label, pose -, score_
+HEEH_KT_rd6_0099
+Dropped unsupported records: , # All, #END_P, ALA_34, ARG_12, ARG_42, ASN_14, GLU_16, GLU_18, GLU_2, GLU_32, GLU_4, GLU_6, GLU_8, GLY_22, HIS_20, ILE_10, ILE_38, LEU_26, LEU_36, LEU_40, LYS_24, SER_30, VAL_28, label, pose -, score_
+HEEH_KT_rd6_0200
+Dropped unsupported records: , # All, #END_P, ALA_32, ARG_30, ARG_42, ASN_22, ASP_28, GLU_14, GLU_2, GLU_38, GLU_40, GLU_6, GLY_16, ILE_20, ILE_26, ILE_8, LEU_12, LEU_36, LYS_10, LYS_24, LYS_34, THR_18, THR_4, label, pose -, score_
+HEEH_KT_rd6_0280
+Dropped unsupported records: , # All, #END_P, ALA_10, ARG_18, ARG_24, ARG_38, ASN_22, ASN_30, GLU_12, GLU_2, GLU_20, GLU_32, GLU_36, GLU_42, GLU_8, GLY_14, HIS_D_, ILE_26, ILE_28, LEU_34, PHE_16, TRP_40, VAL_4, label, pose -, score_
+HEEH_KT_rd6_0403
+Dropped unsupported records: , # All, #END_P, ARG_12, ARG_14, ARG_24, ARG_36, ASN_10, ASN_30, ASP_16, ASP_20, GLU_32, GLU_4, GLU_40, GLU_8, HIS_22, HIS_D_, LEU_38, LEU_42, LEU_6, TRP_18, TRP_2, TRP_26, TRP_34, label, pose -, score_
+HEEH_KT_rd6_0473
+Dropped unsupported records: , # All, #END_P, GLU_10, GLU_16, GLU_2, GLU_24, GLU_38, GLY_22, HIS_D_, ILE_14, ILE_20, ILE_36, LEU_12, LEU_8, LYS_28, LYS_30, LYS_34, LYS_6, PHE_18, THR_26, THR_42, VAL_32, VAL_40, label, pose -, score_
+HEEH_KT_rd6_0595
+Dropped unsupported records: , # All, #END_P, ARG_20, ARG_38, ARG_6, GLU_12, GLU_2, GLU_30, GLU_34, GLU_4, GLU_40, GLU_8, GLY_22, ILE_10, LEU_14, LEU_36, LYS_42, THR_24, TRP_26, TRP_28, VAL_16, VAL_18, VAL_32, label, pose -, score_
+HEEH_KT_rd6_0746
+Dropped unsupported records: , # All, #END_P, ARG_14, ASP_24, GLU_2, GLU_26, GLU_30, GLU_34, GLU_42, GLY_22, GLY_28, ILE_16, ILE_4, ILE_40, ILE_8, LEU_12, LEU_18, LYS_38, LYS_6, PHE_32, THR_10, VAL_20, VAL_36, label, pose -, score_
+HEEH_KT_rd6_0790
+Dropped unsupported records: , # All, #END_P, ALA_32, ARG_10, ARG_14, ARG_34, ARG_42, ASN_28, GLU_16, GLU_2, GLU_30, GLU_38, GLU_4, GLU_6, GLY_22, ILE_18, ILE_20, ILE_36, LEU_24, LEU_40, LYS_12, LYS_26, TRP_8, label, pose -, score_
+HEEH_KT_rd6_0793
+Dropped unsupported records: , # All, #END_P, ALA_32, ALA_36, ARG_38, ARG_6, ASP_24, GLN_16, GLU_10, GLU_2, GLU_30, GLU_34, GLU_40, GLY_22, GLY_28, HIS_D_, ILE_26, LEU_18, LYS_42, PHE_4, TRP_20, TRP_8, VAL_12, label, pose -, score_
+HEEH_KT_rd6_0812
+Dropped unsupported records: , # All, #END_P, ARG_14, ARG_26, ARG_30, ARG_6, ASP_18, GLN_38, GLU_10, GLU_2, GLU_24, GLU_32, GLU_34, GLU_42, GLY_22, GLY_28, LEU_12, LEU_16, LEU_36, LEU_8, LYS_4, PHE_20, TRP_40, label, pose -, score_
+HEEH_KT_rd6_0872
+Dropped unsupported records: , # All, #END_P, ARG_24, ARG_28, ARG_36, ASN_30, ASP_32, GLU_10, GLU_2, GLU_38, GLU_4, GLY_22, ILE_26, ILE_34, ILE_6, LEU_12, LEU_40, LYS_14, LYS_42, LYS_8, PHE_16, PHE_18, TRP_20, label, pose -, score_
+HEEH_KT_rd6_0961
+Dropped unsupported records: , # All, #END_P, ARG_10, ARG_34, ASN_26, ASP_4, GLU_14, GLU_18, GLU_30, GLU_40, GLY_16, GLY_22, HIS_28, HIS_D_, ILE_32, ILE_36, LEU_12, PHE_8, TRP_2, TRP_24, TRP_38, VAL_20, VAL_6, label, pose -, score_
+HEEH_KT_rd6_1075
+Dropped unsupported records: , # All, #END_P, ALA_10, ALA_28, ALA_34, ARG_40, ARG_42, ARG_8, ASP_18, GLU_12, GLU_2, GLU_24, GLU_32, GLU_36, GLU_4, GLY_14, GLY_22, ILE_38, LEU_6, THR_20, THR_30, TRP_16, TYR_26, label, pose -, score_
+HEEH_KT_rd6_1227
+Dropped unsupported records: , # All, #END_P, ALA_34, ARG_10, ARG_30, ARG_40, ARG_42, ASN_14, ASP_22, GLU_2, GLU_32, GLU_36, GLU_6, HIS_D_, ILE_12, ILE_16, ILE_20, ILE_26, LYS_18, VAL_24, VAL_28, VAL_38, VAL_8, label, pose -, score_
+HEEH_KT_rd6_1228
+Dropped unsupported records: , # All, #END_P, ALA_12, ALA_4, ARG_14, ARG_18, ASN_22, ASP_30, GLU_10, GLU_2, GLU_32, GLU_40, GLU_42, ILE_20, LEU_28, LEU_34, LEU_38, LYS_36, LYS_6, TRP_24, VAL_16, VAL_26, VAL_8, label, pose -, score_
+HEEH_KT_rd6_1376
+Dropped unsupported records: , # All, #END_P, ALA_28, ALA_34, ASN_14, GLN_8, GLU_12, GLU_2, GLU_32, GLU_4, GLY_22, HIS_D_, ILE_10, ILE_6, LEU_38, LEU_42, LYS_36, PHE_26, SER_30, THR_16, THR_18, THR_24, VAL_20, label, pose -, score_
+HEEH_KT_rd6_1415
+Dropped unsupported records: , # All, #END_P, ARG_14, ASN_22, GLU_2, GLU_28, GLU_30, GLU_38, GLU_4, GLU_6, GLY_16, ILE_20, ILE_24, ILE_26, LEU_36, LEU_40, LYS_10, LYS_34, LYS_42, PHE_32, PHE_8, THR_18, VAL_12, label, pose -, score_
+HEEH_KT_rd6_1485
+Dropped unsupported records: , # All, #END_P, ALA_10, ALA_30, ARG_32, ARG_6, ASN_14, ASN_22, GLU_12, GLU_2, GLU_20, GLU_24, GLU_36, GLU_4, GLU_42, GLU_8, ILE_34, LEU_38, LYS_18, LYS_40, THR_16, THR_26, VAL_28, label, pose -, score_
+HEEH_KT_rd6_1538
+Dropped unsupported records: , # All, #END_P, ARG_12, ASN_30, ASP_22, ASP_28, GLU_38, GLU_4, HIS_18, HIS_32, HIS_D_, ILE_16, ILE_20, ILE_26, ILE_6, LEU_34, LYS_10, LYS_42, THR_14, THR_24, TRP_2, TRP_36, TRP_40, label, pose -, score_
+HEEH_KT_rd6_1591
+Dropped unsupported records: , # All, #END_P, ARG_42, GLU_10, GLU_2, GLU_28, GLU_30, GLU_34, GLY_22, ILE_18, ILE_8, LEU_12, LEU_20, LEU_32, LEU_36, LEU_4, LYS_14, LYS_16, LYS_6, THR_24, THR_26, THR_38, VAL_40, label, pose -, score_
+HEEH_KT_rd6_1655
+Dropped unsupported records: , # All, #END_P, ARG_10, ARG_14, ARG_40, GLU_32, GLU_36, GLU_4, GLY_22, ILE_2, ILE_26, LEU_16, LEU_20, LEU_34, LEU_42, SER_30, THR_24, THR_28, TRP_8, VAL_12, VAL_18, VAL_38, VAL_6, label, pose -, score_
+HEEH_KT_rd6_1815
+Dropped unsupported records: , # All, #END_P, ALA_32, ALA_36, ARG_12, GLU_2, GLU_30, GLU_38, GLY_22, GLY_28, ILE_20, ILE_8, LEU_14, LEU_4, LEU_40, LYS_10, LYS_24, LYS_34, LYS_42, LYS_6, THR_16, THR_26, VAL_18, label, pose -, score_
+HEEH_KT_rd6_1930
+Dropped unsupported records: , # All, #END_P, ALA_12, ARG_10, ARG_18, ASN_28, GLU_14, GLU_30, GLU_4, GLU_40, GLY_16, GLY_22, ILE_8, LEU_2, LEU_24, LEU_26, LEU_36, LEU_6, LYS_34, LYS_38, LYS_42, PHE_32, VAL_20, label, pose -, score_
+HEEH_KT_rd6_2135
+Dropped unsupported records: , # All, #END_P, ALA_12, ARG_14, ARG_40, ARG_8, GLU_30, GLU_34, GLU_38, GLU_4, GLY_16, GLY_22, ILE_10, ILE_26, ILE_36, LEU_2, LEU_32, LEU_42, LEU_6, THR_18, THR_20, THR_28, TRP_24, label, pose -, score_
+HEEH_KT_rd6_2362
+Dropped unsupported records: , # All, #END_P, ARG_10, ARG_12, ARG_28, ARG_36, ARG_40, ASP_22, GLU_2, GLU_32, GLU_4, GLU_8, GLY_30, ILE_18, LEU_34, LEU_38, LEU_42, LEU_6, THR_24, THR_26, TRP_16, VAL_14, VAL_20, label, pose -, score_
+HEEH_KT_rd6_2366
+Dropped unsupported records: , # All, #END_P, ARG_10, ARG_36, ASP_22, GLU_32, GLU_4, GLY_30, ILE_16, ILE_18, ILE_20, LEU_12, LEU_2, LEU_40, LEU_42, LEU_8, PHE_6, THR_14, THR_24, THR_26, THR_28, VAL_34, VAL_38, label, pose -, score_
+HEEH_KT_rd6_2371
+Dropped unsupported records: , # All, #END_P, ALA_12, ARG_10, ARG_40, GLU_32, GLY_30, HIS_D_, ILE_2, ILE_38, LEU_16, LEU_20, LEU_34, LEU_6, LEU_8, LYS_4, PHE_28, PHE_36, PHE_42, THR_18, THR_22, THR_24, THR_26, label, pose -, score_
+HEEH_KT_rd6_2408
+Dropped unsupported records: , # All, #END_P, ALA_18, ALA_8, ARG_10, ARG_16, ARG_38, ARG_42, ASN_26, GLU_2, GLU_30, GLU_34, GLU_6, GLY_22, HIS_28, ILE_20, ILE_24, ILE_32, ILE_36, LEU_12, LEU_14, LEU_40, TRP_4, label, pose -, score_
+HEEH_KT_rd6_2513
+Dropped unsupported records: , # All, #END_P, ARG_10, ARG_14, ARG_20, ARG_38, ARG_42, GLU_2, GLU_24, GLU_30, GLU_4, GLU_6, GLY_22, GLY_28, ILE_12, ILE_18, ILE_40, LEU_36, LEU_8, THR_26, THR_34, TRP_16, VAL_32, label, pose -, score_
+HEEH_KT_rd6_2583
+Dropped unsupported records: , # All, #END_P, ALA_12, ARG_26, ARG_36, ARG_40, ASN_22, GLU_10, GLU_4, GLY_14, GLY_24, ILE_2, ILE_34, LEU_42, LEU_6, LEU_8, THR_16, THR_18, THR_20, THR_28, THR_30, TRP_38, VAL_32, label, pose -, score_
+HEEH_KT_rd6_2710
+Dropped unsupported records: , # All, #END_P, ALA_34, ARG_24, ARG_28, ARG_40, ARG_8, ASN_30, GLU_12, GLU_26, GLU_32, GLU_4, GLY_22, ILE_18, ILE_20, LEU_2, LEU_38, LEU_42, LEU_6, LYS_10, LYS_36, THR_14, VAL_16, label, pose -, score_
+HEEH_KT_rd6_2853
+Dropped unsupported records: , # All, #END_P, ALA_32, ARG_14, ARG_34, ASN_22, GLU_20, GLU_30, GLU_40, GLY_16, ILE_2, ILE_26, ILE_38, ILE_4, LEU_10, LEU_12, LEU_24, LEU_36, LEU_42, LEU_8, PHE_6, THR_18, THR_28, label, pose -, score_
+HEEH_KT_rd6_2974
+Dropped unsupported records: , # All, #END_P, ALA_34, ALA_38, ARG_12, ARG_20, GLU_2, GLU_32, GLU_8, GLY_14, GLY_22, HIS_4, HIS_D_, LEU_10, LEU_28, LYS_42, PHE_26, PHE_6, THR_16, THR_18, THR_30, TRP_24, TRP_40, label, pose -, score_
+HEEH_KT_rd6_3464
+Dropped unsupported records: , # All, #END_P, ALA_12, ALA_26, ARG_18, ASN_28, GLU_14, GLU_2, GLU_30, GLU_34, GLU_4, GLU_6, GLY_16, LEU_10, LEU_20, LEU_24, LEU_32, LYS_40, LYS_8, PHE_36, PHE_42, TRP_22, TRP_38, label, pose -, score_
+HEEH_KT_rd6_3504
+Dropped unsupported records: , # All, #END_P, ALA_12, ARG_10, ARG_14, ARG_24, ARG_34, ASP_28, GLU_18, GLU_38, GLU_4, GLU_40, GLY_16, HIS_20, HIS_D_, ILE_26, ILE_32, ILE_36, LEU_2, LEU_22, LEU_42, LEU_6, LEU_8, label, pose -, score_
+HEEH_KT_rd6_3546
+Dropped unsupported records: , # All, #END_P, ALA_28, ARG_12, ARG_20, ASN_14, ASP_16, ASP_4, GLU_18, GLU_2, GLU_32, GLU_42, GLU_6, GLU_8, HIS_30, LEU_22, LEU_38, LYS_36, PHE_26, THR_24, TRP_10, TRP_40, VAL_34, label, pose -, score_
+HEEH_KT_rd6_3632
+Dropped unsupported records: , # All, #END_P, ALA_12, ALA_2, ARG_40, GLU_10, GLU_18, GLU_30, GLU_4, GLY_16, GLY_32, ILE_20, ILE_26, ILE_36, ILE_6, LEU_22, LEU_8, LYS_14, PHE_42, SER_28, TRP_34, TRP_38, VAL_24, label, pose -, score_
+HEEH_KT_rd6_3636
+Dropped unsupported records: , # All, #END_P, ALA_12, ARG_10, ARG_30, ARG_42, ASN_16, ASP_28, GLN_40, GLU_2, GLU_34, GLU_38, ILE_20, ILE_32, LEU_18, LEU_22, LEU_36, LEU_8, LYS_14, LYS_6, THR_4, TYR_24, VAL_26, label, pose -, score_
+HEEH_KT_rd6_3813
+Dropped unsupported records: , # All, #END_P, ALA_20, ALA_32, ALA_8, ARG_24, ARG_40, ARG_42, ASN_28, GLU_10, GLU_2, GLU_30, GLU_38, HIS_D_, ILE_4, LEU_12, LEU_18, LEU_22, LYS_16, LYS_34, PHE_36, THR_26, THR_6, label, pose -, score_
+HEEH_KT_rd6_3976
+Dropped unsupported records: , # All, #END_P, ALA_6, ARG_12, ASN_24, GLU_10, GLU_2, GLU_32, GLU_36, GLU_4, GLU_8, HIS_D_, ILE_14, ILE_28, ILE_34, LEU_38, LEU_42, LYS_40, PHE_22, SER_18, VAL_16, VAL_20, VAL_30, label, pose -, score_
+HEEH_KT_rd6_4197
+Dropped unsupported records: , # All, #END_P, ALA_34, ARG_20, ARG_36, ARG_42, ARG_8, GLU_16, GLU_2, GLU_32, GLU_4, GLU_40, GLY_14, ILE_26, LEU_22, LEU_38, LYS_12, LYS_24, PHE_6, SER_30, TRP_18, VAL_10, VAL_28, label, pose -, score_
+HEEH_KT_rd6_4322
+Dropped unsupported records: , # All, #END_P, ALA_40, ARG_24, ARG_36, ARG_38, ASP_14, GLU_18, GLU_2, GLU_32, GLU_4, GLU_42, ILE_30, ILE_8, LEU_12, LEU_20, LEU_22, LYS_10, LYS_6, PHE_26, TRP_28, VAL_16, VAL_34, label, pose -, score_
+HEEH_KT_rd6_4516
+Dropped unsupported records: , # All, #END_P, ALA_12, ARG_10, ARG_34, ASN_16, ASP_4, GLU_14, GLU_30, GLU_40, ILE_32, ILE_8, LEU_22, LEU_36, LEU_6, PHE_24, PHE_38, SER_28, THR_18, TRP_2, VAL_20, VAL_26, VAL_42, label, pose -, score_
+HEEH_KT_rd6_5028
+Dropped unsupported records: , # All, #END_P, ALA_16, ALA_22, ALA_30, ALA_42, ARG_12, ARG_28, ASP_4, GLU_10, GLU_18, GLU_32, GLU_36, GLY_24, HIS_D_, ILE_14, ILE_2, LEU_34, LEU_6, LYS_40, THR_20, TRP_38, VAL_26, label, pose -, score_
+HEEH_KT_rd6_5090
+Dropped unsupported records: , # All, #END_P, ALA_32, ALA_4, ALA_40, ARG_16, GLU_2, GLU_30, GLU_6, GLY_28, HIS_D_, ILE_18, ILE_26, ILE_42, LEU_10, LEU_14, LEU_20, LEU_22, LEU_8, LYS_34, LYS_38, THR_24, VAL_36, label, pose -, score_
+HEEH_KT_rd6_5115
+Dropped unsupported records: , # All, #END_P, ALA_32, ALA_36, ARG_34, GLU_16, GLU_2, GLU_30, GLU_6, GLY_28, ILE_12, ILE_24, ILE_8, LEU_18, LEU_22, LEU_40, LYS_10, LYS_14, LYS_38, LYS_42, THR_26, VAL_20, VAL_4, label, pose -, score_
+HEEH_KT_rd6_5186
+Dropped unsupported records: , # All, #END_P, ALA_34, ALA_6, ARG_12, GLU_24, GLU_32, GLU_4, GLU_40, GLY_30, ILE_2, ILE_20, LEU_10, LEU_16, LEU_22, LEU_42, LYS_36, LYS_8, PHE_18, THR_26, THR_28, VAL_14, VAL_38, label, pose -, score_
+HEEH_KT_rd6_5303
+Dropped unsupported records: , # All, #END_P, ALA_26, ARG_20, GLU_10, GLU_2, GLU_28, GLU_30, GLU_34, GLU_4, GLY_16, ILE_32, ILE_36, ILE_38, ILE_6, LEU_12, LEU_22, LEU_40, LEU_42, LYS_14, LYS_8, THR_18, TRP_24, label, pose -, score_
+HEEH_KT_rd6_5432
+Dropped unsupported records: , # All, #END_P, ALA_10, ARG_12, ARG_20, ARG_40, ASN_14, GLU_2, GLU_32, GLU_42, ILE_26, ILE_28, LEU_22, LEU_4, LEU_6, LYS_38, LYS_8, PHE_34, SER_30, THR_16, THR_18, THR_24, THR_36, label, pose -, score_
+HEEH_KT_rd6_5629
+Dropped unsupported records: , # All, #END_P, ALA_32, ARG_14, ARG_34, ARG_42, ASN_16, ASN_28, GLU_10, GLU_2, GLU_30, GLU_38, GLU_4, GLU_6, ILE_18, ILE_20, ILE_8, LEU_12, LEU_36, LEU_40, PHE_24, THR_26, TRP_22, label, pose -, score_
+HEEH_KT_rd6_5990
+Dropped unsupported records: , # All, #END_P, ARG_26, ARG_40, GLU_24, GLU_30, GLU_32, GLU_4, GLU_8, HIS_D_, ILE_12, ILE_42, ILE_6, LEU_10, LEU_18, LEU_2, LEU_22, LEU_34, LEU_38, PHE_16, THR_14, THR_28, VAL_20, label, pose -, score_
+HEEH_KT_rd6_6469
+Dropped unsupported records: , # All, #END_P, ALA_32, ALA_36, ARG_10, ARG_14, GLU_18, GLU_2, GLU_30, GLU_6, GLY_16, ILE_24, ILE_26, LEU_12, LEU_22, LEU_34, LEU_38, LEU_4, LEU_42, PHE_8, THR_20, THR_28, VAL_40, label, pose -, score_
+HEEH_KT_rd6_6831
+Dropped unsupported records: , # All, #END_P, ARG_12, ARG_26, ARG_40, ARG_42, GLU_32, GLU_36, GLU_8, GLY_30, HIS_D_, ILE_18, ILE_24, LEU_10, LEU_6, THR_14, THR_28, TRP_38, VAL_16, VAL_2, VAL_20, VAL_22, VAL_34, label, pose -, score_
+HEEH_KT_rd6_6934
+Dropped unsupported records: , # All, #END_P, ALA_34, ALA_42, ALA_6, ARG_12, ARG_2, ARG_40, GLU_30, GLU_32, GLU_4, HIS_D_, ILE_10, ILE_16, ILE_26, LEU_14, LEU_38, PHE_20, SER_28, THR_24, TRP_22, VAL_18, label, pose -, score_
+HEEH_KT_rd6_7045
+Dropped unsupported records: , # All, #END_P, ALA_6, ARG_12, ARG_18, ARG_24, ARG_28, ARG_40, GLU_26, GLU_32, GLU_36, GLU_4, GLU_8, GLY_30, ILE_34, LEU_20, LEU_22, LEU_42, TRP_10, TRP_38, VAL_14, VAL_16, VAL_2, label, pose -, score_
+HEEH_rd2_0750
+Dropped unsupported records: # All, #END_P, ALA_12, ALA_22, ARG_14, ARG_36, ARG_8, GLN_42, GLU_10, GLU_20, GLU_30, GLU_4, GLU_40, GLY_16, ILE_24, ILE_6, LEU_2, LEU_32, LYS_34, THR_18, THR_28, TRP_38, VAL_26, bb -0., buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+HEEH_rd2_0779
+Dropped unsupported records: # All, #END_P, ALA_12, ALA_32, ARG_30, ARG_34, ARG_6, ASN_22, ASN_42, ASP_20, ASP_28, GLN_24, GLU_10, GLU_38, GLU_4, GLU_40, GLY_16, GLY_18, LEU_2, LEU_8, LYS_14, PHE_26, VAL_36, bb -0., buried, contac, degree, expose, label, mismat, pack 0, percen, pose -, res_co, two_co
+HEEH_rd3_0002
+Dropped unsupported records: # All, #END_P, ALA_12, ALA_38, ALA_4, ASN_22, ASN_30, ASP_10, GLN_18, GLN_32, GLN_6, LEU_34, LEU_42, LYS_14, LYS_2, LYS_36, LYS_40, PHE_26, PHE_28, THR_20, VAL_16, VAL_24, VAL_8, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+HEEH_rd3_0055
+Dropped unsupported records: # All, #END_P, ALA_32, ALA_36, ASP_4, GLN_14, GLN_42, GLU_30, GLY_16, GLY_22, ILE_2, ILE_6, LEU_10, LEU_12, LYS_34, LYS_40, LYS_8, PHE_24, PRO_18, SER_28, THR_20, TRP_38, VAL_26, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+HEEH_rd3_0103
+Dropped unsupported records: # All, #END_P, ALA_10, ALA_34, ALA_4, ARG_2, ARG_42, ASP_32, GLU_8, GLY_14, GLY_22, HIS_D_, ILE_28, LEU_38, LYS_12, PRO_16, THR_18, THR_30, TRP_6, TYR_36, TYR_40, VAL_24, VAL_26, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+HEEH_rd3_0223
+Dropped unsupported records: # All, #END_P, ALA_12, ALA_32, ALA_36, ALA_8, ASN_16, ASP_30, GLN_20, GLU_10, GLU_4, GLU_42, GLY_22, ILE_2, ILE_6, LYS_14, LYS_34, LYS_38, LYS_40, PRO_18, SER_28, TYR_24, VAL_26, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+HEEH_rd3_0726
+Dropped unsupported records: # All, #END_P, ALA_10, ALA_34, ARG_18, ASN_22, ASP_32, GLU_16, GLU_2, GLU_42, GLU_8, GLY_14, ILE_24, ILE_26, ILE_28, LEU_40, LYS_12, LYS_20, LYS_36, LYS_4, LYS_6, SER_30, VAL_38, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+HEEH_rd3_0784
+Dropped unsupported records: # All, #END_P, ALA_10, ALA_34, ARG_42, ASN_22, GLN_8, GLU_12, GLU_18, GLU_2, GLU_32, GLU_36, GLU_38, GLU_6, GLY_14, ILE_24, LEU_40, THR_16, THR_20, THR_30, VAL_26, VAL_28, VAL_4, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+HEEH_rd4_0094
+Dropped unsupported records: # All, #END_P, ARG_18, ASN_22, ASN_24, GLN_12, GLU_10, GLU_2, GLU_32, GLU_36, LEU_16, LEU_34, LYS_14, LYS_40, LYS_6, PHE_42, SER_30, THR_20, TYR_26, VAL_28, VAL_38, VAL_4, VAL_8, bb -0., buried, cavity, contac, degree, entrop, expose, fxn_ex, holes, label, mean_d, one_co, percen, pose -, res_co, ss_con, two_co, unsat_
+HEEH_rd4_0097
+Dropped unsupported records: # All, #END_P, ARG_40, ARG_8, ASN_16, ASN_22, ASN_30, ASP_28, GLU_10, GLU_38, GLU_4, ILE_32, ILE_36, ILE_6, LYS_14, LYS_34, PRO_18, SER_42, THR_20, THR_24, TYR_26, VAL_12, VAL_2, bb -0., buried, cavity, contac, degree, entrop, expose, fxn_ex, holes, label, mean_d, one_co, percen, pose -, res_co, ss_con, two_co, unsat_
+HEEH_rd4_0349
+Dropped unsupported records: # All, #END_P, ALA_12, ALA_42, ALA_6, ASN_22, ASN_30, ASP_28, GLN_16, GLN_24, GLN_40, GLU_10, GLU_4, ILE_32, LEU_36, LEU_8, LYS_14, LYS_34, PHE_26, PRO_18, THR_20, THR_38, TRP_2, bb -0., buried, cavity, contac, degree, entrop, expose, fxn_ex, holes, label, mean_d, one_co, percen, pose -, res_co, ss_con, two_co, unsat_
+HEEH_rd4_0758
+Dropped unsupported records: # All, #END_P, ARG_42, GLN_12, GLU_24, GLU_36, GLU_4, GLY_22, GLY_30, HIS_D_, ILE_2, ILE_38, LEU_10, LYS_14, LYS_40, PHE_18, PRO_32, THR_26, THR_8, TYR_20, VAL_16, VAL_34, VAL_6, bb -0., buried, cavity, contac, degree, entrop, expose, fxn_ex, holes, label, mean_d, one_co, percen, pose -, res_co, ss_con, two_co, unsat_
+HHH_rd1_0033
+Dropped unsupported records: # All, #END_P, ALA_28, ARG_14, ARG_22, ARG_34, ARG_8, ASP_2, GLN_42, GLU_10, GLU_20, GLU_26, GLU_32, GLU_38, GLU_4, GLY_16, LEU_12, LEU_24, LEU_40, LYS_18, LYS_6, SER_30, TRP_36, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd1_0056
+Dropped unsupported records: # All, #END_P, ALA_28, ALA_42, ARG_14, ARG_22, ARG_6, ASP_4, GLU_10, GLU_18, GLU_2, GLU_20, GLU_32, GLU_34, GLY_16, ILE_30, LEU_12, LEU_38, LYS_26, LYS_36, LYS_40, LYS_8, VAL_24, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd1_0061
+Dropped unsupported records: # All, #END_P, ALA_28, ALA_30, ALA_8, ARG_36, ARG_6, ASN_14, GLU_2, GLU_20, GLU_32, GLU_34, ILE_38, LEU_4, LEU_42, LYS_10, LYS_18, LYS_22, LYS_26, LYS_40, TRP_12, TRP_24, VAL_16, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd1_0142
+Dropped unsupported records: # All, #END_P, ALA_24, ALA_28, ARG_22, ARG_36, ARG_42, GLU_12, GLU_20, GLU_26, GLU_32, GLU_34, GLU_4, GLU_8, GLY_30, ILE_16, ILE_38, ILE_6, LEU_10, LYS_2, LYS_40, PHE_14, PRO_18, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd1_0196
+Dropped unsupported records: # All, #END_P, ALA_28, ALA_4, ALA_8, ARG_24, ASN_14, ASP_2, GLN_40, GLU_18, GLU_20, GLU_26, GLU_34, GLU_36, ILE_30, LEU_42, LYS_10, LYS_16, LYS_22, LYS_6, PRO_32, TRP_12, TRP_38, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd1_0197
+Dropped unsupported records: # All, #END_P, ALA_28, ALA_38, ALA_42, ALA_8, ARG_14, ARG_22, ARG_26, ASP_2, GLN_32, GLN_34, GLU_10, GLU_20, GLU_36, LEU_12, LEU_4, LYS_16, LYS_40, LYS_6, PRO_18, TYR_24, TYR_30, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd1_0210
+Dropped unsupported records: # All, #END_P, ALA_38, ARG_12, ARG_14, ARG_22, ARG_26, ARG_36, ASP_18, ASP_2, GLU_10, GLU_20, GLU_32, GLU_34, ILE_24, ILE_30, ILE_4, ILE_8, LEU_28, LEU_42, LYS_16, LYS_40, LYS_6, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd1_0244
+Dropped unsupported records: # All, #END_P, ALA_16, ALA_24, ALA_28, ARG_22, GLU_18, GLU_2, GLU_20, GLU_36, GLU_4, GLU_6, GLY_30, ILE_38, LEU_10, LYS_12, LYS_26, LYS_40, LYS_42, LYS_8, PHE_14, PRO_32, THR_34, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd1_0335
+Dropped unsupported records: # All, #END_P, ALA_14, ALA_34, ARG_36, ARG_38, ASN_30, ASN_42, GLN_26, GLN_28, GLN_8, GLU_2, GLU_22, GLU_32, GLU_4, GLY_16, LEU_10, LEU_24, LYS_12, LYS_20, LYS_6, TYR_40, VAL_18, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd1_0473
+Dropped unsupported records: # All, #END_P, ALA_12, ALA_28, ARG_22, GLU_32, GLU_34, GLU_4, GLY_16, ILE_30, ILE_38, ILE_42, LEU_24, LYS_10, LYS_14, LYS_18, LYS_2, LYS_20, LYS_26, LYS_36, LYS_40, LYS_6, LYS_8, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd1_0493
+Dropped unsupported records: # All, #END_P, ALA_12, ALA_28, ALA_42, ASP_2, ASP_4, GLU_18, GLU_34, GLU_36, GLY_16, ILE_24, LEU_38, LYS_10, LYS_14, LYS_20, LYS_22, LYS_26, LYS_40, LYS_6, LYS_8, PRO_32, VAL_30, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd1_0516
+Dropped unsupported records: # All, #END_P, ALA_16, ALA_42, ARG_12, ARG_6, ASN_14, GLU_2, GLU_20, GLU_32, GLU_34, GLU_40, LEU_28, LEU_38, LEU_8, LYS_10, LYS_18, LYS_22, LYS_26, LYS_36, PHE_30, SER_4, VAL_24, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd1_0578
+Dropped unsupported records: # All, #END_P, ALA_38, ARG_22, ARG_40, ARG_6, ARG_8, ASP_34, GLU_2, GLU_26, GLU_36, GLU_4, GLY_28, ILE_16, ILE_30, LEU_12, LEU_24, LYS_14, LYS_20, LYS_32, PHE_10, PRO_18, TYR_42, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd1_0598
+Dropped unsupported records: # All, #END_P, ALA_22, ALA_4, ALA_42, ALA_8, ARG_36, ASN_14, GLN_34, GLU_2, GLU_20, GLU_32, GLY_16, ILE_12, LEU_30, LEU_38, LYS_10, LYS_26, LYS_40, LYS_6, PHE_24, PRO_18, TYR_28, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd1_0606
+Dropped unsupported records: # All, #END_P, ALA_12, ALA_28, ARG_10, ARG_26, ARG_40, ARG_8, ASN_16, ASP_2, GLU_14, GLU_22, GLU_32, GLU_36, GLU_4, LEU_20, LEU_24, LYS_34, LYS_6, TRP_18, TRP_38, TRP_42, VAL_30, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd1_0756
+Dropped unsupported records: # All, #END_P, ALA_12, ASP_34, ASP_40, GLU_18, GLU_38, GLU_4, GLU_42, GLY_16, ILE_24, LEU_30, LYS_10, LYS_14, LYS_2, LYS_22, LYS_26, LYS_36, LYS_6, LYS_8, THR_20, TRP_32, TYR_28, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd1_0773
+Dropped unsupported records: # All, #END_P, ALA_28, ARG_6, ARG_8, ASP_2, ASP_20, GLN_14, GLN_36, GLU_12, GLU_26, GLU_32, GLY_30, ILE_24, ILE_38, LEU_42, LYS_10, LYS_22, LYS_34, LYS_4, LYS_40, SER_18, VAL_16, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd1_0931
+Dropped unsupported records: # All, #END_P, ALA_10, ALA_14, ALA_40, ARG_20, ARG_32, ARG_34, ARG_38, ASN_28, ASN_30, ASP_2, GLN_4, GLU_22, GLU_42, GLY_16, ILE_24, LYS_12, LYS_26, LYS_36, LYS_6, LYS_8, TRP_18, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd1_0949
+Dropped unsupported records: # All, #END_P, ALA_16, ALA_28, ALA_32, ARG_10, ARG_22, ARG_40, ASP_26, GLU_12, GLU_2, GLU_36, GLY_30, LEU_14, LEU_20, LEU_24, LEU_38, LEU_42, LYS_34, LYS_4, LYS_6, LYS_8, SER_18, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd2_0058
+Dropped unsupported records: # All, #END_P, ALA_12, ALA_28, ALA_42, ARG_40, GLN_4, GLU_18, GLU_32, GLU_34, GLU_36, GLU_8, GLY_16, ILE_24, LEU_30, LYS_10, LYS_14, LYS_20, LYS_22, LYS_26, LYS_6, PHE_38, SER_2, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd2_0074
+Dropped unsupported records: # All, #END_P, ALA_4, ALA_8, ARG_16, ARG_40, GLN_2, GLN_20, GLN_26, GLU_10, GLU_32, GLU_34, GLU_36, GLU_6, ILE_24, ILE_38, LEU_28, LEU_42, LYS_14, LYS_18, LYS_22, TRP_12, VAL_30, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd2_0090
+Dropped unsupported records: # All, #END_P, ALA_12, ALA_24, ALA_28, ARG_20, ASP_4, GLN_34, GLU_32, GLU_8, GLY_16, LEU_30, LYS_10, LYS_14, LYS_18, LYS_22, LYS_26, LYS_36, LYS_40, LYS_6, PHE_38, THR_2, VAL_42, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd2_0114
+Dropped unsupported records: # All, #END_P, ALA_38, ALA_4, ALA_8, ARG_14, ARG_40, ASP_2, GLN_20, GLN_28, GLU_10, GLU_32, GLU_34, GLU_36, ILE_22, LYS_12, LYS_26, LYS_6, PRO_18, TYR_16, TYR_24, TYR_30, VAL_42, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd2_0134
+Dropped unsupported records: # All, #END_P, ALA_12, ALA_28, ARG_14, ARG_22, ARG_40, GLN_34, GLN_6, GLU_10, GLU_20, GLU_26, GLU_36, GLU_4, GLU_8, GLY_16, ILE_24, ILE_38, LEU_42, LYS_18, LYS_2, PRO_32, TYR_30, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd2_0139
+Dropped unsupported records: # All, #END_P, ALA_38, ALA_4, ALA_42, ALA_8, ARG_22, ARG_40, ARG_6, ASP_2, GLN_28, GLU_18, GLU_34, GLU_36, LEU_12, LYS_10, LYS_14, LYS_26, PRO_32, TYR_16, TYR_20, TYR_24, VAL_30, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd2_0155
+Dropped unsupported records: # All, #END_P, ALA_12, ARG_14, ARG_22, ARG_36, ARG_6, ASP_4, GLU_10, GLU_18, GLU_26, GLU_32, GLU_34, GLY_16, ILE_24, LEU_28, LEU_38, LEU_42, LYS_20, LYS_40, LYS_8, PRO_2, TYR_30, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd2_0158
+Dropped unsupported records: # All, #END_P, ALA_12, ALA_24, ALA_28, ARG_22, ARG_40, ARG_8, GLN_2, GLN_34, GLU_18, GLU_36, GLU_4, GLY_16, LEU_30, LYS_10, LYS_14, LYS_26, LYS_6, PHE_38, PHE_42, PRO_32, THR_20, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd2_0160
+Dropped unsupported records: # All, #END_P, ALA_10, ALA_14, ARG_26, ARG_34, ARG_40, GLU_18, GLU_2, GLU_36, GLU_4, GLY_16, ILE_24, LEU_28, LEU_38, LEU_42, LYS_12, LYS_20, LYS_22, LYS_6, LYS_8, PRO_32, VAL_30, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd2_0165
+Dropped unsupported records: # All, #END_P, ALA_12, ALA_28, ARG_10, ARG_22, ARG_40, ARG_6, ASP_14, GLN_2, GLU_18, GLU_20, GLU_36, GLU_4, GLY_16, ILE_24, LYS_26, LYS_8, PHE_38, PRO_32, TRP_30, TYR_34, VAL_42, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd2_0181
+Dropped unsupported records: # All, #END_P, ALA_12, ARG_14, ASP_32, ASP_34, GLN_4, GLU_10, GLU_18, GLU_8, GLY_16, ILE_30, LEU_24, LEU_38, LYS_2, LYS_20, LYS_22, LYS_26, LYS_36, LYS_40, LYS_6, TYR_28, VAL_42, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd2_0182
+Dropped unsupported records: # All, #END_P, ALA_28, ALA_4, ALA_8, ARG_10, ARG_22, ARG_40, ASN_14, ASP_2, GLN_20, GLN_26, GLU_36, GLU_6, ILE_24, ILE_38, LEU_16, LEU_34, LYS_12, PRO_18, THR_32, VAL_30, VAL_42, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd2_0250
+Dropped unsupported records: # All, #END_P, ALA_28, ALA_4, ARG_14, ARG_36, ASP_2, GLN_20, GLU_10, GLU_32, GLU_34, ILE_24, ILE_30, ILE_38, ILE_42, LEU_12, LEU_8, LYS_26, LYS_40, LYS_6, PRO_18, TYR_16, VAL_22, bb -0., buried, cavity, contac, degree, holes, label, one_co, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd3_0003
+Dropped unsupported records: # All, #END_P, ALA_30, ALA_42, ALA_8, ARG_22, ARG_40, ARG_6, ASN_14, ASN_28, ASP_2, GLN_26, GLN_34, GLU_10, GLU_20, GLU_36, ILE_24, ILE_38, LEU_12, LEU_4, PRO_18, PRO_32, VAL_16, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+HHH_rd3_0008
+Dropped unsupported records: # All, #END_P, ALA_28, ARG_12, ARG_22, ARG_40, ARG_6, GLN_4, GLU_18, GLU_2, GLU_20, GLY_30, ILE_24, ILE_38, ILE_42, ILE_8, LEU_14, LEU_34, LYS_26, LYS_36, PRO_32, TYR_10, TYR_16, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+HHH_rd3_0053
+Dropped unsupported records: # All, #END_P, ALA_28, ALA_38, ALA_4, ALA_8, ARG_14, ARG_22, ASP_32, ASP_34, GLN_12, GLN_2, GLN_26, GLU_10, GLU_20, GLU_36, GLU_40, GLU_6, ILE_24, ILE_30, ILE_42, PRO_18, VAL_16, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+HHH_rd3_0078
+Dropped unsupported records: # All, #END_P, ALA_12, ALA_28, ARG_14, ARG_22, ARG_8, ASP_18, ASP_36, GLU_10, GLU_26, GLU_34, GLU_4, GLU_40, GLU_6, GLY_16, ILE_30, LEU_24, LYS_2, LYS_20, PRO_32, TRP_38, VAL_42, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+HHH_rd3_0091
+Dropped unsupported records: # All, #END_P, ALA_12, ALA_28, ARG_14, ARG_20, ARG_26, ARG_40, ASP_32, GLN_10, GLU_18, GLU_34, GLU_36, GLU_4, GLU_6, GLU_8, GLY_16, LEU_24, LEU_42, LYS_22, PRO_2, TYR_30, TYR_38, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+HHH_rd3_0134
+Dropped unsupported records: # All, #END_P, ALA_38, ALA_4, ALA_42, ARG_26, ARG_6, ASN_14, GLN_36, GLU_10, GLU_18, GLU_20, GLU_32, GLU_34, ILE_24, LEU_28, LYS_22, LYS_40, PHE_30, PHE_8, PRO_2, VAL_12, VAL_16, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+HHH_rd3_0159
+Dropped unsupported records: # All, #END_P, ALA_28, ARG_14, ARG_22, ASP_40, GLN_20, GLN_26, GLN_34, GLU_2, GLU_4, GLU_6, ILE_38, LEU_10, LEU_16, LEU_24, LYS_12, LYS_36, LYS_8, PHE_30, PHE_42, PRO_18, PRO_32, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+HHH_rd3_0164
+Dropped unsupported records: # All, #END_P, ALA_14, ALA_34, ALA_36, ASN_30, ASP_28, GLN_22, GLU_32, GLU_4, GLU_6, GLU_8, GLY_16, LEU_24, LYS_12, LYS_20, LYS_26, LYS_38, LYS_42, PRO_2, TYR_10, TYR_18, TYR_40, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+HHH_rd3_0185
+Dropped unsupported records: # All, #END_P, ALA_38, ALA_4, ALA_42, ALA_8, ARG_14, ARG_36, ASP_6, GLN_2, GLN_26, GLU_10, GLU_20, GLU_28, GLU_32, GLU_34, ILE_22, ILE_24, ILE_30, LEU_12, LYS_40, PRO_18, VAL_16, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+HHH_rd3_0224
+Dropped unsupported records: # All, #END_P, ALA_36, ALA_4, ASN_14, ASN_28, ASN_30, ASP_20, GLU_26, GLU_32, GLU_38, ILE_12, LEU_16, LYS_10, LYS_22, LYS_34, LYS_42, LYS_6, PRO_18, PRO_2, TRP_24, TYR_40, VAL_8, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+HHH_rd3_0244
+Dropped unsupported records: # All, #END_P, ALA_38, ALA_4, ALA_42, ALA_8, ARG_22, ASN_14, ASP_6, GLN_40, GLU_18, GLU_20, GLU_32, GLU_34, GLU_36, ILE_16, ILE_24, LEU_12, LEU_28, LEU_30, LYS_10, LYS_26, PRO_2, bb -0., buried, cavity, contac, degree, expose, fxn_ex, label, mismat, percen, pose -, res_co, sidech, unsat_
+HHH_rd4_0017
+Dropped unsupported records: # All, #END_P, ARG_28, ARG_36, ARG_6, ASN_14, AlaCou, GLU_18, GLU_2, GLU_20, GLU_32, GLU_34, ILE_16, ILE_24, ILE_30, ILE_4, LEU_12, LYS_10, LYS_26, LYS_40, VAL_22, VAL_38, VAL_42, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd4_0019
+Dropped unsupported records: # All, #END_P, ARG_14, ARG_24, ARG_36, ARG_40, ARG_6, ASP_2, AlaCou, GLN_20, GLN_28, GLU_10, GLU_32, GLU_34, ILE_30, LEU_12, LEU_42, LYS_18, LYS_26, TYR_16, VAL_22, VAL_38, VAL_4, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd4_0034
+Dropped unsupported records: # All, #END_P, ALA_32, ALA_6, ARG_40, AlaCou, GLN_20, GLU_18, GLU_2, GLU_34, GLU_4, HIS_D_, ILE_16, LEU_14, LEU_24, LEU_28, LYS_12, LYS_22, LYS_26, LYS_8, TRP_38, VAL_10, VAL_30, VAL_36, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd4_0067
+Dropped unsupported records: # All, #END_P, ALA_4, ARG_10, ASN_28, ASP_18, ASP_36, AlaCou, GLN_12, GLN_20, GLU_2, GLU_34, GLU_6, ILE_24, LYS_14, LYS_22, LYS_26, LYS_40, PRO_32, TYR_16, TYR_30, VAL_38, VAL_42, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd4_0122
+Dropped unsupported records: # All, #END_P, ALA_12, ARG_14, ARG_26, ARG_28, ARG_40, ARG_6, ASP_32, AlaCou, GLN_20, GLU_10, GLU_2, GLU_34, GLU_36, ILE_24, LYS_18, PHE_16, THR_22, VAL_30, VAL_38, VAL_4, VAL_42, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd4_0124
+Dropped unsupported records: # All, #END_P, ARG_14, ARG_40, ASN_28, ASP_34, AlaCou, GLN_12, GLN_18, GLN_22, GLU_10, GLU_2, GLU_20, GLU_36, ILE_24, ILE_30, LEU_42, LYS_26, LYS_6, PRO_32, VAL_16, VAL_38, VAL_4, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd4_0125
+Dropped unsupported records: # All, #END_P, ARG_10, ASN_14, ASP_18, ASP_2, ASP_36, AlaCou, GLN_20, GLN_28, GLU_32, ILE_12, ILE_24, ILE_34, LEU_42, LYS_22, LYS_26, LYS_40, LYS_6, VAL_16, VAL_30, VAL_38, VAL_4, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd4_0140
+Dropped unsupported records: # All, #END_P, ARG_10, ARG_28, ASN_14, ASP_6, AlaCou, GLN_20, GLU_34, GLU_36, ILE_12, ILE_24, ILE_38, ILE_8, LEU_4, LYS_2, LYS_22, LYS_26, LYS_40, PRO_18, PRO_32, TYR_30, VAL_16, VAL_42, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd4_0260
+Dropped unsupported records: # All, #END_P, ALA_38, ARG_22, ARG_40, ARG_6, ASN_14, AlaCou, GLN_28, GLU_2, GLU_20, GLU_26, GLU_34, GLU_36, ILE_24, LEU_12, LYS_10, PRO_18, PRO_32, VAL_16, VAL_30, VAL_4, VAL_42, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd4_0395
+Dropped unsupported records: # All, #END_P, ALA_4, ALA_8, ARG_14, ARG_40, AlaCou, GLN_20, GLU_10, GLU_2, GLU_34, GLU_36, ILE_38, ILE_42, LEU_28, LYS_18, LYS_22, LYS_26, LYS_6, PRO_32, TYR_12, VAL_16, VAL_24, VAL_30, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd4_0477
+Dropped unsupported records: # All, #END_P, ALA_4, ALA_8, ARG_26, ASP_18, ASP_32, AlaCou, GLN_14, GLN_20, GLU_10, GLU_2, GLU_34, GLU_40, ILE_24, ILE_30, LEU_28, LEU_42, LYS_12, LYS_22, LYS_36, LYS_6, TRP_16, VAL_38, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd4_0518
+Dropped unsupported records: # All, #END_P, ALA_38, ARG_14, ARG_22, ASP_20, ASP_32, ASP_36, AlaCou, GLN_28, GLU_10, GLU_18, GLU_2, GLU_34, ILE_30, LEU_12, LYS_26, LYS_40, LYS_6, TYR_16, TYR_24, VAL_4, VAL_42, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd4_0557
+Dropped unsupported records: # All, #END_P, ARG_40, ARG_6, AlaCou, GLN_20, GLN_28, GLU_10, GLU_2, GLU_32, GLU_34, GLU_36, ILE_24, ILE_30, ILE_42, LYS_14, LYS_22, LYS_26, PRO_18, TYR_12, VAL_16, VAL_38, VAL_4, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd4_0611
+Dropped unsupported records: # All, #END_P, ALA_28, ARG_40, ARG_6, ASP_32, AlaCou, GLN_26, GLU_14, GLU_2, GLU_20, GLU_34, GLU_36, ILE_8, LYS_10, LYS_12, LYS_18, LYS_22, TYR_24, VAL_16, VAL_30, VAL_38, VAL_4, VAL_42, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd4_0613
+Dropped unsupported records: # All, #END_P, ARG_26, ARG_6, ASN_14, ASP_28, AlaCou, GLN_12, GLN_20, GLN_36, GLU_10, GLU_2, GLU_22, GLU_32, GLU_34, ILE_24, LEU_38, LEU_4, LYS_40, PRO_18, VAL_16, VAL_30, VAL_42, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd4_0676
+Dropped unsupported records: # All, #END_P, ALA_12, ALA_6, ARG_14, ARG_40, ASN_16, ASP_2, ASP_32, AlaCou, GLN_34, GLU_18, GLU_22, GLU_4, ILE_30, LEU_38, LEU_8, LYS_20, LYS_26, LYS_36, TYR_28, VAL_10, VAL_24, VAL_42, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd4_0816
+Dropped unsupported records: # All, #END_P, ARG_26, ARG_42, ARG_8, ASP_2, ASP_30, ASP_32, AlaCou, GLN_10, GLN_20, GLN_28, GLU_38, GLU_4, ILE_36, LEU_14, LEU_22, LEU_40, LYS_12, LYS_6, THR_18, TRP_24, VAL_16, VAL_34, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd4_0849
+Dropped unsupported records: # All, #END_P, ALA_36, ARG_12, ARG_6, ASN_28, ASN_30, AlaCou, GLN_20, GLU_2, GLU_22, GLU_32, GLU_4, ILE_10, LEU_14, LEU_16, LEU_18, LEU_40, LYS_26, LYS_38, LYS_42, LYS_8, TRP_24, VAL_34, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd4_0870
+Dropped unsupported records: # All, #END_P, ARG_12, ARG_38, ASN_28, ASP_20, AlaCou, GLN_34, GLN_40, GLU_2, GLU_22, GLU_4, GLU_42, GLU_8, ILE_10, ILE_24, ILE_32, LEU_14, LEU_30, LEU_36, LYS_18, LYS_26, LYS_6, VAL_16, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd4_0909
+Dropped unsupported records: # All, #END_P, ALA_28, ARG_12, ARG_22, ARG_26, AlaCou, GLN_40, GLU_18, GLU_2, GLU_4, GLU_8, GLY_30, ILE_32, ILE_38, ILE_42, LEU_14, LYS_34, LYS_6, VAL_10, VAL_16, VAL_20, VAL_24, VAL_36, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+HHH_rd4_0977
+Dropped unsupported records: # All, #END_P, ALA_34, ALA_38, ARG_14, ARG_6, ASP_36, AlaCou, GLN_28, GLU_10, GLU_2, GLU_20, LEU_12, LEU_30, LYS_18, LYS_22, LYS_24, LYS_26, LYS_40, PHE_16, PRO_32, VAL_4, VAL_42, VAL_8, buried, contac, dslf_q, expose, helix_, label, loop_s, mismat, pack 0, percen, pose -, res_co, ss_sc, unsat_
+XX:run10_1081_0004
+XX:run1_0254_0003
+XX:run1_0367_0004
+XX:run1_0455_0002
+XX:run1_0461_0006
+XX:run3_1384_0005
+XX:run5_0283_0004
+XX:run5_0666_0001
+XX:run5_0690_0002
+XX:run5_1034_0004
+XX:run5_1341_0006
+XX:run6_0373_0006
+XX:run6_1020_0004
+XX:run6_1081_0004
+XX:run7_0974_0003
+XX:run8_0733_0006
+XX:run8_1063_0003
+XX:run8_1098_0003
+XX:run8_1203_0001
+r10_1151_TrROS_Hall
+r10_437_TrROS_Hall
+r10_490_TrROS_Hall
+r10_569_TrROS_Hall
+r10_572_TrROS_Hall
+r10_863_TrROS_Hall
+r11_1081_TrROS_Hall
+r11_233_TrROS_Hall
+r11_467_TrROS_Hall
+r11_541_TrROS_Hall
+r11_569_TrROS_Hall
+r11_692_TrROS_Hall
+r11_797_TrROS_Hall
+r11_80_TrROS_Hall
+r11_829_TrROS_Hall
+r11_848_TrROS_Hall
+r11_943_TrROS_Hall
+r11_951_TrROS_Hall
+r12_175_TrROS_Hall
+r12_230_TrROS_Hall
+r12_268_TrROS_Hall
+r12_423_TrROS_Hall
+r12_601_TrROS_Hall
+r12_69_TrROS_Hall
+r12_703_TrROS_Hall
+r12_738_TrROS_Hall
+r12_757_TrROS_Hall
+r13_137_TrROS_Hall
+r14_234_TrROS_Hall
+r14_263_TrROS_Hall
+r14_568_TrROS_Hall
+r14_791_TrROS_Hall
+r14_947_TrROS_Hall
+r15_105_TrROS_Hall
+r15_133_TrROS_Hall
+r15_161_TrROS_Hall
+r15_228_TrROS_Hall
+r15_232_TrROS_Hall
+r15_418_TrROS_Hall
+r15_447_TrROS_Hall
+r15_464_TrROS_Hall
+r15_550_TrROS_Hall
+r15_62_TrROS_Hall
+r15_698_TrROS_Hall
+r15_96_TrROS_Hall
+r16_231_TrROS_Hall
+r16_2_TrROS_Hall
+r16_43_TrROS_Hall
+r16_512_TrROS_Hall
+r16_515_TrROS_Hall
+r16_638_TrROS_Hall
+r16_658_TrROS_Hall
+r16_757_TrROS_Hall
+r16_88_TrROS_Hall
+r17_222_TrROS_Hall
+r17_386_TrROS_Hall
+r18_195_TrROS_Hall
+r18_3_TrROS_Hall
+r20_196_TrROS_Hall
+r2_117_TrROS_Hall
+r2_148_TrROS_Hall
+r2_262_TrROS_Hall
+r2_497_TrROS_Hall
+r3_162_TrROS_Hall
+r3_211_TrROS_Hall
+r3_35_TrROS_Hall
+r4_320_TrROS_Hall
+r4_412_TrROS_Hall
+r4_43_TrROS_Hall
+r5_528_TrROS_Hall
+r5_761_TrROS_Hall
+r6_237_TrROS_Hall
+r6_267_TrROS_Hall
+r6_285_TrROS_Hall
+r6_523_TrROS_Hall
+r6_526_TrROS_Hall
+r6_531_TrROS_Hall
+r6_560_TrROS_Hall
+r6_688_TrROS_Hall
+r6_831_TrROS_Hall
+r6_859_TrROS_Hall
+r6_869_TrROS_Hall
+r6_920_TrROS_Hall
+r7_307_TrROS_Hall
+r7_562_TrROS_Hall
+r7_587_TrROS_Hall
+r8_103_TrROS_Hall
+r8_226_TrROS_Hall
+r8_253_TrROS_Hall
+r8_312_TrROS_Hall
+r8_372_TrROS_Hall
+r9_1045_TrROS_Hall
+r9_1163_TrROS_Hall
+r9_340_TrROS_Hall
+r9_366_TrROS_Hall
+r9_733_TrROS_Hall
+r9_814_TrROS_Hall
+v2K28S:R29S_2M7K
+v2K43S_2KVV
+v2R14S:R16S_2L3X
+v2R31S:R32S_2N5D
+v2_1OGW
+v2_1PGY
+v2_1PV0
+v2_1WR7
+v2_2BN8
+v2_2HDZ
+v2_2J6K
+v2_2KIS
+v2_2L15
+v2_2LC2
+v2_2LDM
+v2_2LLW
+v2_2LXE
+v2_2M4H
+v2_2M5A
+v2_2MAZ
+v2_2MDC
+v2_2YSB
+v2_3Q9P
+v2_4UZX
+v2_5XK5
+v2_5YDX
+v2_6CQ7
+v2_6IVS
